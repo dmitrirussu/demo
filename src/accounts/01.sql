@@ -1,1 +1,1 @@
-SELECT * FROM `accounts` WHERE 1=1;
+SELECT `name`, `birthDate` FROM accounts WHERE 1=1;
